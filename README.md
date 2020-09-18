@@ -17,3 +17,7 @@ PROJECT 2 - Анализ клиентских заказов Службы Так
 Используемые библиотеки: Pandas, Numpy, Sklearn, Lightgbm, Statsmodel, Matplotlib
 
 Проект закончен
+
+Attempt | #1 |
+--- | --- |
+Seconds | 301 |
